@@ -32,7 +32,7 @@ sudo apt-get install texlive-xetex texlive-latex-extra texlive-fonts-extra \
 ## セットアップ
 
 ```bash
-git submodule add <このリポジトリ>
+git submodule add https://github.com/yryo1005/pptx-render.git
 cd pptx-render
 
 # Python仮想環境の作成（初回のみ）
