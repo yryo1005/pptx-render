@@ -1,0 +1,15 @@
+# Python
+.venv_*/
+__pycache__/
+*.py[cod]
+
+# Test
+.pytest_cache/
+tests/rendered/
+
+# 変換結果の出力先
+outputs/
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
